@@ -1,13 +1,13 @@
 # Mining-SRA
 ASM Microbe 2019 Workshop "Using High-Performance Computing (HPC) to mine the NCBI Short Read Archive (SRA)" 
 
-ASM Microbe 2019 (link https://www.asm.org/Events/ASM-Microbe-2019/Home)
-June 20-24, 2019 in San Francisco, CA (USA),
-8:00 am to 4:00pm (link to workshop description https://www.abstractsonline.com/pp8/#!/7859/session/358) 
+* ASM Microbe 2019 (link https://www.asm.org/Events/ASM-Microbe-2019/Home)
+* June 20-24, 2019 in San Francisco, CA (USA),
+* 8:00 am to 4:00pm (link to workshop description https://www.abstractsonline.com/pp8/#!/7859/session/358) 
 
 ## Registration 
 If you are interested in registering for the workshop, it is open through ASM Microbe 2019 Registration. 
-To register click here - https://www.asm.org/Events/ASM-Microbe-2019/Registration
+* To register click here - https://www.asm.org/Events/ASM-Microbe-2019/Registration
 Early Bird registration closes April 1st, 2019		
 _Note: There is an option to register only for the workshop and not the whole conference
 
