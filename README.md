@@ -13,10 +13,10 @@ _Note: There is an option to register only for the workshop and not the whole co
 
 ## Description of the topics that will be covered in the workshop 
 The workshop will focus on three main topics: 
-*Introduction to High-Performance Clusters (HPC) 
+### Introduction to High-Performance Clusters (HPC) 
 This is an important topic that is overlooked in most cases unfortunately. The topic will cover the basics of what is a HPC, how are they setup, how to run analysis on these clusters, and finally data management. These topics may seem trivial but will provide insights on how to use these resources efficiently. 
 
-## Bioinformatics programs available to mine the SRA 
+### Bioinformatics programs available to mine the SRA 
 In this section we will start with a brief introduction to SRA and then  work with three bioinformatics programs we can use to mine SRA quickly,
   * SearchSRA (https://www.searchsra.org/)- used to lookup others SRA datasets that likely contain the sequence/genome of interest. 
   * E-utilities (https://www.ncbi.nlm.nih.gov/books/NBK25501/) to lookup metadata information using SRA accession IDs. 
@@ -24,7 +24,7 @@ In this section we will start with a brief introduction to SRA and then  work wi
 
 During the workshop we will walk through the three programs with a test dataset, and the commands/scripts used in the workshop will be made available through GitHub (in progress). 
 
-## R to visualize the data 
+### R to visualize the data 
 Finally, we will end the workshop with visualizing the metadata and taxa/function information using ordination plots in R. The goal of this section of the workshop is not to provide ready-made Rscripts, but to teach the participants how to lookup R packages available, write commands from documentation and read R scripts.  
 
 Feel free to contact us at help@ncgas.org or bhnala@iu.edu if you have any questions related to the workshop  
