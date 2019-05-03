@@ -3,7 +3,7 @@ ASM Microbe 2019 Workshop "Using High-Performance Computing (HPC) to mine the NC
 
 ASM Microbe 2019 (link https://www.asm.org/Events/ASM-Microbe-2019/Home) <br />
 June 20-24, 2019 in San Francisco, CA (USA), <br />
-8:00 am to 4:00pm (link to workshop description https://www.abstractsonline.com/pp8/#!/7859/session/358) <br />
+June 20th, 8:00 am to 4:00pm (link to workshop description https://www.abstractsonline.com/pp8/#!/7859/session/358) <br />
 
 ## Registration 
 If you are interested in registering for the workshop, it is open through ASM Microbe 2019 Registration. <br />
