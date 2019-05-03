@@ -8,7 +8,7 @@ June 20th, 8:00 am to 4:00pm (link to workshop description https://www.abstracts
 ## Registration 
 If you are interested in registering for the workshop, it is open through ASM Microbe 2019 Registration. <br />
 To register click here - https://www.asm.org/Events/ASM-Microbe-2019/Registration <br />
-Early Bird registration closes April 1st, 2019		<br  />
+Early Bird registration closes May 22nd, 2019		<br  />
 _Note: There is an option to register only for the workshop and not the whole conference_
 
 ## Description of the topics that will be covered in the workshop 
