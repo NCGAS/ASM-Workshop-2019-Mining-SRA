@@ -32,7 +32,7 @@ Finally, we will end the workshop with visualizing the metadata and taxa/functio
 |   			 |**Activity**							                                |**Lead**|
 |---------------|:----------------------------------------------------------|-----:|
 |8:00 - 8:30| Introduction to NCGAS services |Thomas Doak| 
-|8:45 – 9:45| Introduction to HPC and other resources available- emphasize JS because we will be using this for workshop |Sheri Sanders| 
+|8:45 – 9:45| Introduction to HPC and other resources available |Sheri Sanders| 
 |10:00 – 12:30| Mining SRA and filtering results|Bhavya|
 |12:30 – 2:00| Lunch| | 
 |2:00 – 3:30| R to visualize data | Sheri Sanders|
