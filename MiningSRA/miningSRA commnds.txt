@@ -1,0 +1,48 @@
+#Input file 
+cp /opt/crassphage.fasta /home/username/.
+
+#Copy the searchSRA results 
+cp /opt/results.zip /home/username/. 
+
+#Unzip the searchSRA results
+unzip results.zip
+
+#filtering the results 
+filtering.sh
+
+#collecting run information
+for f in `cat moreThan10Hits.txt`; do epost -db sra -format acc -id $f | efetch -format runinfo >>metadata; done
+
+sort metadata | uniq | sed '/^[[:space:]]*$/d' > metadata2 
+
+#Visulaization using Anvio 
+#Formatting the input file – the following command updates the sequence header to a smaller format or assigns a serial number instead, 
+
+anvi-script-reformat-fasta crassphage.fasta -o contigs-fixed.fa -l 0 --simplify-names
+
+mv contigs-fixed.fa contigs.fa
+
+#Generate a contigs database 
+anvi-gen-contigs-database -f contigs.fa -o contigs.db
+
+#formating the bam files from searchSRA
+format-bamfiles-anvio.sh
+
+#Profiling bam files 
+for dir in *-format.bam ; do anvi-init-bam $dir -o $dir.anvio.bam; done
+
+#Creating a bam files database 
+for f in *anvio.bam ; do  anvi-profile -i $f -c ../contigs.db ; done
+
+#Merge all the profiles to one database 
+anvi-merge */PROFILE.db -o SAMPLES-MERGED -c ../contigs.db
+
+#Visualize the data 
+anvi-interactive -p SAMPLES-MERGED/PROFILE.db -c ../contigs.db
+
+#Running focus for taxa analysis 
+focus.py -q fasta/
+
+
+
+
