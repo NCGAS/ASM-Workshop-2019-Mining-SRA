@@ -18,7 +18,7 @@ This is an important topic that is overlooked in most cases unfortunately. The t
 
 ### Bioinformatics programs available to mine the SRA 
 In this section we will start with a brief introduction to SRA and then  work with three bioinformatics programs we can use to mine SRA quickly,
-  * SearchSRA (https://www.searchsra.org/)- used to lookup others SRA datasets that likely contain the sequence/genome of interest. 
+  * SearchSRA (https://www.searchsra.org/) used to lookup others SRA datasets that likely contain the sequence/genome of interest. 
   * E-utilities (https://www.ncbi.nlm.nih.gov/books/NBK25501/) to lookup metadata information using SRA accession IDs. 
   * Sratoolkit (https://www.ncbi.nlm.nih.gov/sra/docs/toolkitsoft/) to download specific datasets for analysis. 
 
