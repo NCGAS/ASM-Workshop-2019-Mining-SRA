@@ -43,6 +43,11 @@ Feel free to contact us at help@ncgas.org or bhnala@iu.edu if you have any quest
 ## Presentations 
 The presentations are available here https://iu.box.com/s/tjhyt67fbmp0q12obk7j0cakbvwsmm2r
 
+## Survey 
+We would be really grateful if you can take a couple minutes to fill out this survey. These survey's helps us determine how to improve these workshops and also great for reporting. 
+https://iu.co1.qualtrics.com/jfe/form/SV_d1iyszyDVs1gK0Z
+Thank you so much for helping us, we really appreciate it. 
+
 # Post ASM workshop 
 We will provide access to the compute resources used for the workshop to the participants again from 24th to 28th June, if participants are interested in testing the pipeline and commands again post workshop. 
 
