@@ -44,7 +44,7 @@ Feel free to contact us at help@ncgas.org or bhnala@iu.edu if you have any quest
 The presentations are available here https://iu.box.com/s/tjhyt67fbmp0q12obk7j0cakbvwsmm2r
 
 # Post ASM workshop 
-We will provide access to the compute resources used for the workshop to the participants again from 24th to 28th June, if participants are interested in testing the pipeline and commands again post workshop. 
+We will provide access to the compute resources used for the workshop to the participants again from 26th to 28th June, if participants are interested in testing the pipeline and commands again post workshop. 
 
 On June 28th, we will have office hours via slack/online (more information during the workshop) between 2 to 4 PM EST for those who have any questions. You can also always contact us at help@ncgas.org as well. 
 
