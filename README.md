@@ -48,9 +48,4 @@ We will provide access to the compute resources used for the workshop to the par
 
 On June 28th, we will have office hours via slack/online (more information during the workshop) between 2 to 4 PM EST for those who have any questions. You can also always contact us at help@ncgas.org as well. 
 
-## Post workshop survey 
-We would be really grateful if you can take a couple minutes to fill out this survey. These survey's helps us determine how to improve these workshops and also great for reporting. 
-https://iu.co1.qualtrics.com/jfe/form/SV_d1iyszyDVs1gK0Z
-Thank you so much for helping us, we really appreciate it. 
-
 
