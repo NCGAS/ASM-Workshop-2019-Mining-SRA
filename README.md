@@ -41,7 +41,7 @@ Finally, we will end the workshop with visualizing the metadata and taxa/functio
 Feel free to contact us at help@ncgas.org or bhnala@iu.edu if you have any questions related to the workshop  
 
 ## Presentations 
-The presentations are available here https://iu.box.com/s/tjhyt67fbmp0q12obk7j0cakbvwsmm2r
+The presentations are available here https://drive.google.com/drive/folders/1niV6f-6UAe-D7cVr9ZZQxtdbDqOaFfqz?usp=sharing
 
 # Post ASM workshop 
 We will provide access to the compute resources used for the workshop to the participants again from 26th to 28th June, if participants are interested in testing the pipeline and commands again post workshop. 
